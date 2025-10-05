@@ -1,0 +1,3 @@
+Jul 10 14:22:31 server sshd[1999]: Failed password for invalid user admin from 192.168.1.5 port 4598 ssh2
+Jul 10 14:22:33 server sshd[2000]: Failed password for invalid user root from 192.168.1.5 port 4598 ssh2
+Jul 10 14:22:35 server sshd[2001]: Failed password for invalid user admin from 192.168.1.6 port 3212 ssh2
